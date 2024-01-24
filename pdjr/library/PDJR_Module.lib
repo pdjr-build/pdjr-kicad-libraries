@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# WeMos_mini
+# Wemos_D1_mini
 #
-DEF WeMos_mini U 0 40 Y Y 1 F N
+DEF Wemos_D1_mini U 0 40 Y Y 1 F N
 F0 "U" -50 -650 60 H V C CNN
-F1 "WeMos_mini" -50 300 60 H V C CNN
+F1 "Wemos_mini" -50 300 60 H V C CNN
 F2 "" -600 550 60 H V C CNN
 F3 "" -600 550 60 H V C CNN
 DRAW
